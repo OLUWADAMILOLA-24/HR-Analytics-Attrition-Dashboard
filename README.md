@@ -37,7 +37,7 @@ IBM HR Analytics Employee Attrition — Kaggle (CC0 Public Domain)
 4. Establish an overtime policy review for high-attrition departments
 
 ## Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
+![Dashboard]()
 
 ## Business Impact
 Estimated: Reducing attrition by 25% would save approximately $600K annually 
@@ -45,5 +45,6 @@ Estimated: Reducing attrition by 25% would save approximately $600K annually
 
 ## Contact
 **[Odusanya Oluwadamilola Abigail]** | [www.linkedin.com/in/oluwadamilola-odusanya] | [odusanyadamilola92@email.com]
-## Contact
-**[Your Name]** | [LinkedIn Profile URL] | [your@email.com]
+
+
+
